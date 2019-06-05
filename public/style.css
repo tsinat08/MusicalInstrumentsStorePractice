@@ -106,6 +106,10 @@ nav {
     overflow: auto;
     opacity: 0.9;
     background-color: white;
+    padding: 2% 5%;
+    margin: 5% auto;
+    border-radius: 5px;
+
 }
 
 .image {
