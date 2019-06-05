@@ -26,6 +26,8 @@ header {
 }
 
 .container {
+    width: 90%;
+    margin: 0 auto;
 
 }
 
@@ -62,6 +64,9 @@ nav {
 /* Home Page Rulesets */
 
 #introduction {
+    text-align: center;
+    margin-top: 15%;
+    margin-bottom: 50%;
 
 }
 
@@ -99,7 +104,8 @@ nav {
 .instrument {
     width: 90%;
     overflow: auto;
-
+    opacity: 0.9;
+    background-color: white;
 }
 
 .image {
