@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed14df4b-2b57-4c38-b591-4f0887b6effa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/store.html" beforeDir="false" afterPath="$PROJECT_DIR$/store.html" afterDir="false" />
-    </list>
+    <list default="true" id="ed14df4b-2b57-4c38-b591-4f0887b6effa" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -19,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/store.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="48" column="9" lean-forward="true" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+            <state relative-caret-position="358">
+              <caret line="52" selection-start-line="52" selection-end-line="52" />
               <folding>
                 <element signature="e#2989#2995#0" expanded="true" />
               </folding>
@@ -183,7 +180,7 @@
       <workItem from="1559432769561" duration="2988000" />
       <workItem from="1559437473255" duration="1642000" />
       <workItem from="1559578547729" duration="219000" />
-      <workItem from="1559693581860" duration="8609000" />
+      <workItem from="1559693581860" duration="8860000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <created>1559434368938</created>
@@ -227,15 +224,21 @@
       <option name="project" value="LOCAL" />
       <updated>1559701425898</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="delete link">
+      <created>1559704135629</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1559704135629</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13458000" />
+    <option name="totallyTimeSpent" value="13709000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="594" y="16" width="978" height="856" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12195122" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -282,7 +285,8 @@
     <MESSAGE value="start" />
     <MESSAGE value="link added" />
     <MESSAGE value="more link added" />
-    <option name="LAST_COMMIT_MESSAGE" value="more link added" />
+    <MESSAGE value="delete link" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete link" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/handlebars.min.js">
@@ -328,8 +332,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/store.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="48" column="9" lean-forward="true" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+        <state relative-caret-position="358">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
           <folding>
             <element signature="e#2989#2995#0" expanded="true" />
           </folding>
